@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260525210152YLHQ9X</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260525210152MG9FB1</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Mantenimiento de computadores </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779759455093</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1779759521975-odxbw9rjo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Unidad 1: Mantenimiento de computadores</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Unidad 1: Mantenimiento de computadores</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Unidad 1: Mantenimiento de computadores</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779759521975-odxbw9rjo</odePageId>
+      <odeBlockId>block-1779759993015-8rzy7ofyv</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>english</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759521975-odxbw9rjo</odePageId>
+          <odeBlockId>block-1779759993015-8rzy7ofyv</odeBlockId>
+          <odeIdeviceId>idevice-1779759993007-5iexwn1xr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>El mantenimiento en computadores es el conjunto de acciones que se realizan para cuidar, optimizar y reparar un equipo de cómputo, con el fin de garantizar su buen funcionamiento, prolongar su vida útil y prevenir fallas. Puede incluir limpieza física, actualización de programas, eliminación de virus y revisión de componentes internos y externos.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779759993007-5iexwn1xr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>El mantenimiento en computadores es el conjunto de acciones que se realizan para cuidar, optimizar y reparar un equipo de cómputo, con el fin de garantizar su buen funcionamiento, prolongar su vida útil y prevenir fallas. Puede incluir limpieza física, actualización de programas, eliminación de virus y revisión de componentes internos y externos.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779759521975-odxbw9rjo</odePageId>
+      <odeBlockId>block-1779760020340-lyvv05vzc</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759521975-odxbw9rjo</odePageId>
+          <odeBlockId>block-1779760020340-lyvv05vzc</odeBlockId>
+          <odeIdeviceId>idevice-1779760020338-60cdygdj6</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779760020338-60cdygdj6" title="" href="{{context_path}}/content/resources/introduccion-al-mantenimiento-y-reparacion-de-computadoras-pdf-19-320.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/introduccion-al-mantenimiento-y-reparacion-de-computadoras-pdf-19-320.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1779760020338-60cdygdj6" title="" href="{{context_path}}/content/resources/mantenimientocorrectivodeuncomputador-120514193344-phpapp02-thumbnail.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/mantenimientocorrectivodeuncomputador-120514193344-phpapp02-thumbnail.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760020338-60cdygdj6","img_0":{"img":"{{context_path}}/content/resources/introduccion-al-mantenimiento-y-reparacion-de-computadoras-pdf-19-320.jpg","thumbnail":"{{context_path}}/content/resources/introduccion-al-mantenimiento-y-reparacion-de-computadoras-pdf-19-320.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/mantenimientocorrectivodeuncomputador-120514193344-phpapp02-thumbnail.jpg","thumbnail":"{{context_path}}/content/resources/mantenimientocorrectivodeuncomputador-120514193344-phpapp02-thumbnail.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779759547003-l5tm6oyih</odePageId>
+  <odeParentPageId>page-1779759521975-odxbw9rjo</odeParentPageId>
+  <pageName>Sección 1: mantenimiento preventivo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sección 1: mantenimiento preventivo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sección 1: mantenimiento preventivo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779759547003-l5tm6oyih</odePageId>
+      <odeBlockId>block-1779760145646-r1k3y0if8</odeBlockId>
+      <blockName>Mantenimiento preventivo</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759547003-l5tm6oyih</odePageId>
+          <odeBlockId>block-1779760145646-r1k3y0if8</odeBlockId>
+          <odeIdeviceId>idevice-1779760145640-2k9sjb4ee</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>El mantenimiento preventivo en computadores es el conjunto de actividades realizadas periódicamente para evitar daños y fallas en el equipo. Su objetivo es mantener el computador en buen estado, mejorar su rendimiento y prolongar su vida útil mediante acciones como la limpieza interna y externa, actualización de software, revisión de componentes y eliminación de archivos o virus innecesarios.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760145640-2k9sjb4ee","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>El mantenimiento preventivo en computadores es el conjunto de actividades realizadas periódicamente para evitar daños y fallas en el equipo. Su objetivo es mantener el computador en buen estado, mejorar su rendimiento y prolongar su vida útil mediante acciones como la limpieza interna y externa, actualización de software, revisión de componentes y eliminación de archivos o virus innecesarios.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779759547003-l5tm6oyih</odePageId>
+      <odeBlockId>block-1779760196515-hfxhipkij</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759547003-l5tm6oyih</odePageId>
+          <odeBlockId>block-1779760196515-hfxhipkij</odeBlockId>
+          <odeIdeviceId>idevice-1779760196509-eg1pxi0ij</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779760196509-eg1pxi0ij" title="" href="{{context_path}}/content/resources/Limpieza-en-Equipo-de-Computo-Interna-y-Externa-10-2048.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Limpieza-en-Equipo-de-Computo-Interna-y-Externa-10-2048.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1779760196509-eg1pxi0ij" title="" href="{{context_path}}/content/resources/Limpieza-en-Equipo-de-Computo-Interna-y-Externa-4-2048.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Limpieza-en-Equipo-de-Computo-Interna-y-Externa-4-2048.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760196509-eg1pxi0ij","img_0":{"img":"{{context_path}}/content/resources/Limpieza-en-Equipo-de-Computo-Interna-y-Externa-10-2048.jpg","thumbnail":"{{context_path}}/content/resources/Limpieza-en-Equipo-de-Computo-Interna-y-Externa-10-2048.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/Limpieza-en-Equipo-de-Computo-Interna-y-Externa-4-2048.jpg","thumbnail":"{{context_path}}/content/resources/Limpieza-en-Equipo-de-Computo-Interna-y-Externa-4-2048.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779759553919-5gy0ud9b1</odePageId>
+  <odeParentPageId>page-1779759547003-l5tm6oyih</odeParentPageId>
+  <pageName>Limpieza interna del CPU</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Limpieza interna del CPU</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Limpieza interna del CPU</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779759553919-5gy0ud9b1</odePageId>
+      <odeBlockId>block-1779760299124-qjru30ufa</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759553919-5gy0ud9b1</odePageId>
+          <odeBlockId>block-1779760299124-qjru30ufa</odeBlockId>
+          <odeIdeviceId>idevice-1779760299122-j023qnyua</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>La limpieza interna del CPU consiste en retirar el polvo y la suciedad acumulada dentro del computador para evitar el sobrecalentamiento y mejorar su funcionamiento. Este proceso incluye limpiar ventiladores, disipadores, tarjetas y demás componentes internos utilizando herramientas adecuadas, como aire comprimido y brochas suaves, siempre con el equipo apagado y desconectado.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760299122-j023qnyua","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>La limpieza interna del CPU consiste en retirar el polvo y la suciedad acumulada dentro del computador para evitar el sobrecalentamiento y mejorar su funcionamiento. Este proceso incluye limpiar ventiladores, disipadores, tarjetas y demás componentes internos utilizando herramientas adecuadas, como aire comprimido y brochas suaves, siempre con el equipo apagado y desconectado.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779759553919-5gy0ud9b1</odePageId>
+      <odeBlockId>block-1779760336005-vtf698g7v</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759553919-5gy0ud9b1</odePageId>
+          <odeBlockId>block-1779760336005-vtf698g7v</odeBlockId>
+          <odeIdeviceId>idevice-1779760336001-8pn6z1exv</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779760336001-8pn6z1exv" title="" href="{{context_path}}/content/resources/148570639-hardware-de-mantenimiento-de-tecnología-del-ingeniero-hombre-reparar-computadoras-servicio-de-pc.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/148570639-hardware-de-mantenimiento-de-tecnología-del-ingeniero-hombre-reparar-computadoras-servicio-de-pc.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760336001-8pn6z1exv","img_0":{"img":"{{context_path}}/content/resources/148570639-hardware-de-mantenimiento-de-tecnología-del-ingeniero-hombre-reparar-computadoras-servicio-de-pc.jpg","thumbnail":"{{context_path}}/content/resources/148570639-hardware-de-mantenimiento-de-tecnología-del-ingeniero-hombre-reparar-computadoras-servicio-de-pc.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779759560609-jcy09vt8v</odePageId>
+  <odeParentPageId>page-1779759547003-l5tm6oyih</odeParentPageId>
+  <pageName>Actualización de software</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actualización de software</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actualización de software</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779759560609-jcy09vt8v</odePageId>
+      <odeBlockId>block-1779760387082-h020g25qa</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759560609-jcy09vt8v</odePageId>
+          <odeBlockId>block-1779760387082-h020g25qa</odeBlockId>
+          <odeIdeviceId>idevice-1779760387081-5tqha3gwx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>La actualización del software consiste en instalar nuevas versiones o mejoras de los programas y del sistema operativo del computador. Esto se realiza para corregir errores, aumentar la seguridad, mejorar el rendimiento y agregar nuevas funciones que permitan un mejor funcionamiento del equipo.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760387081-5tqha3gwx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>La actualización del software consiste en instalar nuevas versiones o mejoras de los programas y del sistema operativo del computador. Esto se realiza para corregir errores, aumentar la seguridad, mejorar el rendimiento y agregar nuevas funciones que permitan un mejor funcionamiento del equipo.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779759560609-jcy09vt8v</odePageId>
+      <odeBlockId>block-1779760420957-a6aa28tpx</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759560609-jcy09vt8v</odePageId>
+          <odeBlockId>block-1779760420957-a6aa28tpx</odeBlockId>
+          <odeIdeviceId>idevice-1779760420956-hx8onmlhd</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779760420956-hx8onmlhd" title="" href="{{context_path}}/content/resources/actualización-de-software-en-el-equipo-para-la-versión-modish-del-software-del-dispositivo.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/actualización-de-software-en-el-equipo-para-la-versión-modish-del-software-del-dispositivo.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1779760420956-hx8onmlhd" title="" href="{{context_path}}/content/resources/windows-update-windows-10-agg.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/windows-update-windows-10-agg.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760420956-hx8onmlhd","img_0":{"img":"{{context_path}}/content/resources/actualización-de-software-en-el-equipo-para-la-versión-modish-del-software-del-dispositivo.jpg","thumbnail":"{{context_path}}/content/resources/actualización-de-software-en-el-equipo-para-la-versión-modish-del-software-del-dispositivo.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/windows-update-windows-10-agg.jpg","thumbnail":"{{context_path}}/content/resources/windows-update-windows-10-agg.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779759566589-146fj2xrn</odePageId>
+  <odeParentPageId>page-1779759547003-l5tm6oyih</odeParentPageId>
+  <pageName>Respaldo de información</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Respaldo de información</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Respaldo de información</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779759566589-146fj2xrn</odePageId>
+      <odeBlockId>block-1779760458469-6du8el1om</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759566589-146fj2xrn</odePageId>
+          <odeBlockId>block-1779760458469-6du8el1om</odeBlockId>
+          <odeIdeviceId>idevice-1779760458467-ws85wi05o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>El respaldo de información es el proceso de copiar y guardar archivos importantes en otro dispositivo o medio de almacenamiento para evitar la pérdida de datos en caso de daños, errores, virus o fallas del computador. Estos respaldos pueden guardarse en memorias USB, discos duros externos o servicios en la nube.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760458467-ws85wi05o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>El respaldo de información es el proceso de copiar y guardar archivos importantes en otro dispositivo o medio de almacenamiento para evitar la pérdida de datos en caso de daños, errores, virus o fallas del computador. Estos respaldos pueden guardarse en memorias USB, discos duros externos o servicios en la nube.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779759566589-146fj2xrn</odePageId>
+      <odeBlockId>block-1779760492919-iymrieia4</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759566589-146fj2xrn</odePageId>
+          <odeBlockId>block-1779760492919-iymrieia4</odeBlockId>
+          <odeIdeviceId>idevice-1779760492918-ey0tu4q17</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779760492918-ey0tu4q17" title="" href="{{context_path}}/content/resources/respaldo-de-informacion-7.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/respaldo-de-informacion-7.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1779760492918-ey0tu4q17" title="" href="{{context_path}}/content/resources/respaldo-de-informacion-5.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/respaldo-de-informacion-5.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760492918-ey0tu4q17","img_0":{"img":"{{context_path}}/content/resources/respaldo-de-informacion-7.jpg","thumbnail":"{{context_path}}/content/resources/respaldo-de-informacion-7.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/respaldo-de-informacion-5.jpg","thumbnail":"{{context_path}}/content/resources/respaldo-de-informacion-5.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779759571029-7akf5hnra</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sección 2: mantenimiento correctivo</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sección 2: mantenimiento correctivo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sección 2: mantenimiento correctivo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779759571029-7akf5hnra</odePageId>
+      <odeBlockId>block-1779760527171-tldog2h85</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759571029-7akf5hnra</odePageId>
+          <odeBlockId>block-1779760527171-tldog2h85</odeBlockId>
+          <odeIdeviceId>idevice-1779760527170-z3ta6xbqj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>El mantenimiento correctivo en computadores es el conjunto de acciones que se realizan para reparar fallas o daños que ya se han presentado en el equipo. Su objetivo es restablecer el funcionamiento del computador mediante la reparación o reemplazo de componentes, eliminación de errores y solución de problemas de hardware o software.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760527170-z3ta6xbqj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>El mantenimiento correctivo en computadores es el conjunto de acciones que se realizan para reparar fallas o daños que ya se han presentado en el equipo. Su objetivo es restablecer el funcionamiento del computador mediante la reparación o reemplazo de componentes, eliminación de errores y solución de problemas de hardware o software.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779759571029-7akf5hnra</odePageId>
+      <odeBlockId>block-1779760572987-f27e4kz6i</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759571029-7akf5hnra</odePageId>
+          <odeBlockId>block-1779760572987-f27e4kz6i</odeBlockId>
+          <odeIdeviceId>idevice-1779760572986-rge116uwl</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779760572986-rge116uwl" title="" href="{{context_path}}/content/resources/portada-mantenimiento-correctivo.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/portada-mantenimiento-correctivo.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1779760572986-rge116uwl" title="" href="{{context_path}}/content/resources/mantenimiento-preventivo-y-correctivo-de-la-pc-2.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/mantenimiento-preventivo-y-correctivo-de-la-pc-2.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760572986-rge116uwl","img_0":{"img":"{{context_path}}/content/resources/portada-mantenimiento-correctivo.jpg","thumbnail":"{{context_path}}/content/resources/portada-mantenimiento-correctivo.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/mantenimiento-preventivo-y-correctivo-de-la-pc-2.jpg","thumbnail":"{{context_path}}/content/resources/mantenimiento-preventivo-y-correctivo-de-la-pc-2.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779759580027-22gnjicnn</odePageId>
+  <odeParentPageId>page-1779759571029-7akf5hnra</odeParentPageId>
+  <pageName>Diagnóstico de fallos comunes</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diagnóstico de fallos comunes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Diagnóstico de fallos comunes</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779759580027-22gnjicnn</odePageId>
+      <odeBlockId>block-1779760618940-nzwwktbno</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759580027-22gnjicnn</odePageId>
+          <odeBlockId>block-1779760618940-nzwwktbno</odeBlockId>
+          <odeIdeviceId>idevice-1779760618939-gnv44utqz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>El diagnóstico de fallos comunes consiste en identificar y analizar los problemas que presenta un computador para encontrar su causa y aplicar una solución adecuada. Incluye revisar errores de encendido, lentitud, sobrecalentamiento, fallas de software, virus o problemas en los componentes internos del equipo.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760618939-gnv44utqz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>El diagnóstico de fallos comunes consiste en identificar y analizar los problemas que presenta un computador para encontrar su causa y aplicar una solución adecuada. Incluye revisar errores de encendido, lentitud, sobrecalentamiento, fallas de software, virus o problemas en los componentes internos del equipo.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779759580027-22gnjicnn</odePageId>
+      <odeBlockId>block-1779760650239-fye626n2d</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>calculate</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759580027-22gnjicnn</odePageId>
+          <odeBlockId>block-1779760650239-fye626n2d</odeBlockId>
+          <odeIdeviceId>idevice-1779760650238-213zc54of</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779760650238-213zc54of" title="" href="{{context_path}}/content/resources/fc3c5_1.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/fc3c5_1.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1779760650238-213zc54of" title="" href="{{context_path}}/content/resources/problemas-hardware-2.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/problemas-hardware-2.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760650238-213zc54of","img_0":{"img":"{{context_path}}/content/resources/fc3c5_1.jpg","thumbnail":"{{context_path}}/content/resources/fc3c5_1.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/problemas-hardware-2.jpg","thumbnail":"{{context_path}}/content/resources/problemas-hardware-2.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779759586151-r3ew58wc5</odePageId>
+  <odeParentPageId>page-1779759571029-7akf5hnra</odeParentPageId>
+  <pageName>Reemplazo de componentes (RAM, disco)</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Reemplazo de componentes (RAM, disco)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Reemplazo de componentes (RAM, disco)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779759586151-r3ew58wc5</odePageId>
+      <odeBlockId>block-1779760699951-fnqon1qtq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759586151-r3ew58wc5</odePageId>
+          <odeBlockId>block-1779760699951-fnqon1qtq</odeBlockId>
+          <odeIdeviceId>idevice-1779760699950-tqej89ur7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>El reemplazo de componentes como la memoria RAM y el disco consiste en retirar piezas dañadas, obsoletas o de baja capacidad y cambiarlas por otras nuevas para mejorar el rendimiento y funcionamiento del computador. Este proceso ayuda a aumentar la velocidad del equipo, ampliar el almacenamiento y solucionar fallas relacionadas con estos componentes.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760699950-tqej89ur7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>El reemplazo de componentes como la memoria RAM y el disco consiste en retirar piezas dañadas, obsoletas o de baja capacidad y cambiarlas por otras nuevas para mejorar el rendimiento y funcionamiento del computador. Este proceso ayuda a aumentar la velocidad del equipo, ampliar el almacenamiento y solucionar fallas relacionadas con estos componentes.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779759586151-r3ew58wc5</odePageId>
+      <odeBlockId>block-1779760729182-hxfrpevri</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759586151-r3ew58wc5</odePageId>
+          <odeBlockId>block-1779760729182-hxfrpevri</odeBlockId>
+          <odeIdeviceId>idevice-1779760729180-vchs6qz96</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779760729180-vchs6qz96" title="" href="{{context_path}}/content/resources/IMG_20190919_171054-e1579193207712.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/IMG_20190919_171054-e1579193207712.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1779760729180-vchs6qz96" title="" href="{{context_path}}/content/resources/IMG_20200116_182502-e1579196106439.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/IMG_20200116_182502-e1579196106439.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760729180-vchs6qz96","img_0":{"img":"{{context_path}}/content/resources/IMG_20190919_171054-e1579193207712.jpg","thumbnail":"{{context_path}}/content/resources/IMG_20190919_171054-e1579193207712.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/IMG_20200116_182502-e1579196106439.jpg","thumbnail":"{{context_path}}/content/resources/IMG_20200116_182502-e1579196106439.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779759590945-ziidxckpq</odePageId>
+  <odeParentPageId>page-1779759571029-7akf5hnra</odeParentPageId>
+  <pageName>Recuperación del sistema operativo</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recuperación del sistema operativo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Recuperación del sistema operativo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779759590945-ziidxckpq</odePageId>
+      <odeBlockId>block-1779760777991-0ykq3obvb</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759590945-ziidxckpq</odePageId>
+          <odeBlockId>block-1779760777991-0ykq3obvb</odeBlockId>
+          <odeIdeviceId>idevice-1779760777990-l81ml4wx5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>La recuperación del sistema operativo es el proceso de restaurar el funcionamiento del computador cuando el sistema presenta errores, daños o fallas que impiden su uso normal. Esto puede realizarse mediante herramientas de reparación, copias de seguridad o reinstalando el sistema operativo para devolver el equipo a un estado estable y funcional.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760777990-l81ml4wx5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>La recuperación del sistema operativo es el proceso de restaurar el funcionamiento del computador cuando el sistema presenta errores, daños o fallas que impiden su uso normal. Esto puede realizarse mediante herramientas de reparación, copias de seguridad o reinstalando el sistema operativo para devolver el equipo a un estado estable y funcional.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779759590945-ziidxckpq</odePageId>
+      <odeBlockId>block-1779760809538-5sifq9qou</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779759590945-ziidxckpq</odePageId>
+          <odeBlockId>block-1779760809538-5sifq9qou</odeBlockId>
+          <odeIdeviceId>idevice-1779760809537-05uf85cd9</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779760809537-05uf85cd9" title="" href="{{context_path}}/content/resources/Reparacion_del_Sistema_0.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Reparacion_del_Sistema_0.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1779760809537-05uf85cd9" title="" href="{{context_path}}/content/resources/PracticosMC.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/PracticosMC.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779760809537-05uf85cd9","img_0":{"img":"{{context_path}}/content/resources/Reparacion_del_Sistema_0.jpg","thumbnail":"{{context_path}}/content/resources/Reparacion_del_Sistema_0.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/PracticosMC.jpg","thumbnail":"{{context_path}}/content/resources/PracticosMC.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
